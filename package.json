@@ -1,0 +1,19 @@
+{
+  "name": "shopify-webhook-lambda-node",
+  "version": "1.0.0",
+  "description": "for shopify webhook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ken-sayama/shopify-webhook-lambda-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ken-sayama/shopify-webhook-lambda-node/issues"
+  },
+  "homepage": "https://github.com/ken-sayama/shopify-webhook-lambda-node#readme"
+}
