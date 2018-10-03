@@ -1,0 +1,22 @@
+# logs
+*.log
+npm-debug.log
+
+# Runtime data
+*.pid
+*.seed
+
+# Dependency directory
+node_modules
+
+# OS
+.DS_Store
+.tmp
+
+
+
+
+
+
+
+
