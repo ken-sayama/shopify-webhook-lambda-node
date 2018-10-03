@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ken-sayama/shopify-webhook-lambda-node/issues"
   },
-  "homepage": "https://github.com/ken-sayama/shopify-webhook-lambda-node#readme"
+  "homepage": "https://github.com/ken-sayama/shopify-webhook-lambda-node#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
 }
